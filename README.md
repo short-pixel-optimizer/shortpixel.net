@@ -24,4 +24,4 @@ Follow the code examples in the [Program.cs](https://github.com/short-pixel-opti
 
 ## License
 
-This software is licensed under the MIT License. [View the license](LICENSE).
+This software is licensed under the GNU General Public License v3.0 License. [View the license](LICENSE).
