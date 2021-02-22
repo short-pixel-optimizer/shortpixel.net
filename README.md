@@ -13,7 +13,8 @@ Include the ShortPxel.cs file into your project and also add the Newtonsoft JSON
 ```xml
 <packages>
   <package id="Newtonsoft.Json" version="12.0.3" targetFramework="net472" />
-</packages>```
+</packages>
+```
 
 Get your API Key from https://shortpixel.com/free-sign-up
 
