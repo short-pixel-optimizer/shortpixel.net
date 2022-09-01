@@ -4,7 +4,7 @@
 
 ## Documentation
 
-[Go to the documentation for the PHP client](https://shortpixel.com/api-net).
+[Go to the documentation for the PHP client](https://shortpixel.com/api-tools).
 
 ## Installation
 
@@ -20,7 +20,7 @@ Get your API Key from https://shortpixel.com/free-sign-up
 
 ## Usage
 
-Follow the code examples in the [Program.cs](https://github.com/short-pixel-optimizer/shortpixel-net/blob/main/Program.cs ) file.
+Follow the code examples in the [Program.cs](https://github.com/short-pixel-optimizer/shortpixel.net/blob/main/Program.cs ) file.
 
 ## License
 
